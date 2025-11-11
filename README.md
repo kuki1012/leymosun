@@ -1,5 +1,8 @@
 # Leymosun: High-Entropy Statistical Research Toolkit
 
+[![PyPI version](https://img.shields.io/pypi/v/leymosun.svg?maxAge=2591000)](https://pypi.org/project/leymosun/)
+[![Downloads](https://static.pepy.tech/badge/leymosun)](https://pepy.tech/project/leymosun)
+[![Downloads](https://pepy.tech/badge/leymosun/month)](https://pepy.tech/project/leymosun)
 [![Static Badge](https://img.shields.io/badge/HAL--Science-hal--03464130-blue)](https://hal.science/hal-03464130/)
 ![Static Badge](https://img.shields.io/badge/Produce--of-Cyprus-D57800)
 
