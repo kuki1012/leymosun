@@ -1,4 +1,4 @@
-# Leymosun: High-Entropy Statistical Research Toolkit
+# Leymosun: High-Entropy Randomness Research Toolkit
 
 [![PyPI version](https://img.shields.io/pypi/v/leymosun.svg?maxAge=2591000)](https://pypi.org/project/leymosun/)
 [![Downloads](https://static.pepy.tech/badge/leymosun)](https://pepy.tech/project/leymosun)
@@ -8,14 +8,14 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17578757.svg)](https://doi.org/10.5281/zenodo.17578757)
 
 
-A package for randomness based research topics.    
+A package for randomness based research. 
 
->![](https://github.com/msuzen/leymosun/blob/main/assets/cat.png)   
+> ![](https://raw.githubusercontent.com/msuzen/leymosun/refs/heads/main/assets/cat.png)  
 > **Figure** Empirical spectral density for mixed ensemble at $\mu=0.8$, so called `Wigner's Cats`.
 
 ## Approach and features
 
-The package provides tools and utilities for randomness based research with `High-Entropy Random Number Generation (HE-RNG)`. It means generation is performed with non-deterministic seeds every time a random
+The package provides tools and utilities for randomness based research with `High-Entropy Random Number Generation (HE-RNG)`. It means generation iss performed with non-deterministic seeds every time a random
 library function is called. 
 
 There is a common misconception in computational sciences that speed is the ultimate goal, however primary objective is scientific correctness first. For this reasons, scientific correctness is taken precedence over speed in the development of the package. For proven methods being a baseline, we might implement faster versions. 

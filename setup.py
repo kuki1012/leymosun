@@ -14,8 +14,8 @@ if (sys.version_info.major, sys.version_info.minor) < (3, 11):
 setup(
     name="leymosun",
     version=__version__,
-    description="High-Entropy Statistical Research Toolkit. Generation of \
-                random matrices in canonical and mixed ensembles. Matrix utilities, \
+    description="High-Entropy Randomness Research Toolkit. High-Entropy Random Number Generator (HE-RNGs). \
+                Generation of  random matrices in canonical and mixed ensembles. Matrix utilities, \
                 spectral analysis tools, analytic expressions from theory.",
     long_description=long_description,
     long_description_content_type="text/markdown",
