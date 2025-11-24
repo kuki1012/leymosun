@@ -1,3 +1,8 @@
+v0.2.22
+
+* NNSD with spectral unfolding. Implemented and tested.
+* Update on `wigner_spacing.ipynb` using `nnsd` method.
+
 v0.2.11
 
 * feature: New lecture: Wigner-Dyson Nearest neigbour spacing distribution. `wigner_spacing.ipynb`.
