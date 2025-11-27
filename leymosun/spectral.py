@@ -200,10 +200,12 @@ def mean_adjacent_gap_ratio(eigenvalues):
 
     """
     adjacent_gap_ratios = []
+    adjacent_gap_ratios_mean = []
     for eigens in  eigenvalues:
         eigens_sorted = np.sort(eigens)
         spacings = np.diff(eigens_sorted)
         adjacent_gap_ratio = np.minimum(spacings[:-1], spacings[1:]) /(np.maximum(spacings[:-1], spacings[1:])+1e-9)
-        adjacent_gap_ratios.append(np.mean(adjacent_gap_ratio))
-    bar_adjacent_gap_ratio = np.mean(adjacent_gap_ratios)
-    return bar_adjacent_gap_ratio
+        adjacent_gap_ratios.append(adjacent_gap_ratio)
+        adjacent_gap_ratios_mean.append(np.mean(adjacent_gap_ratio))
+    bar_adjacent_gap_ratio = np.mean(adjacent_gap_ratios_mean)
+    return bar_adjacent_gap_ratio, adjacent_gap_ratios

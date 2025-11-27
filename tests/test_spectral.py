@@ -64,5 +64,5 @@ def test_nnsd():
     
 def test_mean_adjacent_gap_ratio():
     sim_e2 = np.array([normal(size=1000) for _ in range(10)])
-    r = mean_adjacent_gap_ratio(sim_e2)
+    r, _ = mean_adjacent_gap_ratio(sim_e2)
     assert r > 0.0 

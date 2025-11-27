@@ -1,3 +1,8 @@
+v0.2.33
+
+* `mean_adjacent_gap_ratio`, return ratios matrix as well.
+   This is to quantify uncertainty on `adjacent_gap_ratio`.
+
 v0.2.32
 
 * Addition of `mean_adjacent_gap_ratio` and test.
